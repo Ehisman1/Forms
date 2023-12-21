@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Page</title>
+   
+</head>
+<body>
+    <header>
+        <h1> Summary About Myself</h1>
+    </header>
+
+    <nav>
+        <a href=./index.html>Application Form</a>
+        
+    </nav>
+
+    <main>
+        <section>
+            <p>
+                My name is Ehijator Amagbewan, a graduate of Chemical Engineering from the University of Benin. Currently, I work as a Facility Manager in Willco Management Services, Lagos.
+            </p>
+        </section>
+
+        <section>
+            <p>
+                I am a cloud engineering student in AltSchool Africa with student ID ALT/SOE/023/2618.
+            </p>
+        </section>
+
+        <section>
+            <p>
+                I've learned the basics of frontend website development. I'm skilled at HTML, CSS, Javascript and i can also work on linux terminal. However, my goal is to understand Cloud Engineering by the end of my training session in AltSchool Africa.
+            </p>
+        </section>
+    </main>
+</body>
+</html>
